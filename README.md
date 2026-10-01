@@ -258,8 +258,8 @@ one integrated web application combining:
 
 **Team Name:** `Innovexa`
 
-**Members:** - `[MEMBER NAME]` --- `[MEMBER ID]` - `[MEMBER NAME]` ---
-`[MEMBER ID]`
+**Members:** - `[shaikh Aqsa bano]` --- `[Shaik amreen]` - `[saiditha]` ---
+`[thanusha reddy]`
 
 ## 17. Links
 
