@@ -263,9 +263,9 @@ one integrated web application combining:
 
 ## 17. Links
 
-**Live Demo:** `[ADD LIVE DEMO URL IF AVAILABLE]`
+**Live Demo:** `[https://drive.google.com/drive/folders/1vnUsvaaLn2Hz3goJmdrUL7NggN6CeSek?usp=drive_link]`
 
-**GitHub:** `[ADD GITHUB URL IF AVAILABLE]`
+**GitHub:** `[https://github.com/aqsaxcodes/resumeai/edit/main/README.md]`
 
 ## Conclusion
 
